@@ -88,7 +88,11 @@ def spirograph():
         pen.left(10)
 
 
-# spirograph()
+# draw_square()
+# draw_dotted_line()
+# draw_shapes()
+# random_walk()
+spirograph()
 
 foo = sorted(pen.pen().items())[3][1]
 print(foo)
